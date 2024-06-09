@@ -14,7 +14,7 @@ timezone: America/Mexico_City
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: VC # the main title
+title: Vidal # the main title
 
 tagline: Bienvenido a mi espacio en Internet. Soy backend engineer, me interesan las finanzas personales y en mi tiempo libre aprendo sobre pentesting web. # it will display as the sub-title
 
