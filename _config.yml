@@ -16,7 +16,7 @@ timezone: America/Mexico_City
 
 title: Vidal # the main title
 
-tagline: Bienvenido a mi espacio en Internet. Soy backend engineer, me interesan las finanzas personales y en mi tiempo libre aprendo sobre pentesting web. # it will display as the sub-title
+tagline: Bienvenido a mi espacio en Internet. Soy backend engineer, me interesan las finanzas personales y en mi tiempo libre aprendo sobre pentesting web y otras cosillas de ciberseguridad. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
