@@ -10,7 +10,7 @@ Aquí encontrarás sobre dichos temas y puede que otras cosas que de pronto me l
 
 Una breve descripción de los proyectos en los que trabajo en mi tiempo libre.
 
-<details><summary><strong>Amixtli Aplicación Móvil <a href="https://ladivcr.github.io/Amixtli/">[Ver Artículo Asociado]</a></strong></summary>
+<details><summary><strong>Amixtli Aplicación Móvil <a href="https://ladivcr.github.io/posts/Amixtli/">[Ver Artículo Asociado]</a></strong></summary>
   <br>
   Amixtli es una aplicación móvil para georeferenciar tiraderos clandestinos, lugares en los que la basura se acumula indiscriminadamente y que no son aptos para tal propósito,
   pero que las personas han ido creando a lo largo del tiempo por una falta de cultura de limpieza y respeto al medio ambiente. Mediante reportes con imágenes por parte de los usuarios,
