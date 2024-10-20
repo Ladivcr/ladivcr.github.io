@@ -17,13 +17,12 @@ Una breve descripción de los proyectos en los que trabajo en mi tiempo libre.
   los lugares se almacenan en una base de datos y se visualizan en un mapa que hace notorio el problema a las autoridades para que estas ya no puedan ignorarlo.
 </details>
 
-<details><summary><strong>Un canal de ahorro y seguridad <a href="https://www.youtube.com/@ladivcr">[Ver Canal De Youtube]</a></strong></summary>
+<details><summary><strong>Un canal de seguridad digital <a href="https://www.youtube.com/@ladivcr">[Ver Canal De Youtube]</a></strong></summary>
   <br>
-  Un proyecto de divulgación en el que se exploran diferentes maneras de ahorrar. No enfocándonos únicamente en el ámbito financiero, sino generalizando y explorando también el ahorro de recursos naturales, dándole mayor prioridad a estos últimos. La idea nació a raíz del proyecto de Amixtli. Después de incursionar en ciberseguridad, se incorporó al canal el enfoque de la seguridad y la 
-  protección de la información en el ahorro.
+  Un proyecto de divulgación en el que comparto sobre seguridad digital y protección de la información.
 </details>
 
-<details><summary><strong>HacksFI, un canal dedicado al ahorro financiero <a href="https://www.tiktok.com/@ladivcr">[Ver Canal De TikTok]</a></strong></summary>
+<details><summary><strong>Un canal de seguridad digital <a href="https://www.tiktok.com/@ladivcr">[Ver Canal De TikTok]</a></strong></summary>
   <br>
-  Un proyecto de divulgación financiera enfocado al ahorro y aclaración de conceptos financieros. Desde el nacimiento del canal de YouTube, ambos proyectos se han combinado  para abarcar el ahorro y el gasto de recursos en general. Dándole mayor importancia al ahorro de recursos naturales.
+  Un proyecto de divulgación en el que comparto sobre seguridad digital y protección de la información.
 </details>
