@@ -14,9 +14,9 @@ timezone: America/Mexico_City
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Vidal # the main title
+title: my eco blog # the main title
 
-tagline: Bienvenido a mi espacio en Internet. Soy backend engineer, me interesan las finanzas personales y en mi tiempo libre aprendo sobre pentesting web y otras cosillas de ciberseguridad. # it will display as the sub-title
+tagline: Bienvenido a mi espacio en Internet. Soy backend engineer, me interesan las finanzas personales, la seguridad digital, el ahorro de recursos y en mi tiempo libre aprendo sobre pentesting web y otras cosillas de ciberseguridad. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -25,8 +25,8 @@ description: >- # used by seo meta and the atom feed
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
 url: ""
 
-github:
-  username: ladivcr # change to your github username
+# github:
+#  username: ladivcr # change to your github username
 
 # twitter:
   # username: twitter_username # change to your twitter username
@@ -39,10 +39,9 @@ social:
   links:
     # The first element serves as the copyright owner's link
     # - https://twitter.com/username # change to your twitter homepage
-    - https://github.com/ladivcr # change to your github homepage
+    # - https://github.com/<username> # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/ladivcr
 
 # Site Verification Settings
 webmaster_verifications:
