@@ -14,9 +14,9 @@ timezone: America/Mexico_City
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: my eco blog # the main title
+title: Mi espacio para activismo ambiental # the main title
 
-tagline: Bienvenido a mi espacio en Internet. Soy backend engineer, me interesan las finanzas personales, la seguridad digital, el ahorro de recursos y en mi tiempo libre aprendo sobre pentesting web y otras cosillas de ciberseguridad. # it will display as the sub-title
+tagline: Bienvenido a mi espacio en Internet. Trabajo como backend engineer en mi día a día, pero me interesa el ahorro monetario y de recursos,  la seguridad digital y en mi tiempo libre aprendo sobre pentesting web y otras cosillas de ciberseguridad para seguir creciendo profesionalmente. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
