@@ -16,7 +16,7 @@ timezone: America/Mexico_City
 
 title: Mi espacio para activismo ambiental # the main title
 
-tagline: Bienvenido a mi espacio en Internet. Trabajo como backend engineer en mi día a día, pero me interesa el ahorro monetario y de recursos,  la seguridad digital y en mi tiempo libre aprendo sobre pentesting web y otras cosillas de ciberseguridad para seguir creciendo profesionalmente. # it will display as the sub-title
+tagline: Bienvenido a mi espacio en Internet. Trabajo como backend engineer en mi día a día, pero me interesa el ahorro monetario, de recursos y la seguridad digital. # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -42,7 +42,7 @@ social:
     - https://github.com # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/
+    - https://www.linkedin.com
 
 # Site Verification Settings
 webmaster_verifications:
